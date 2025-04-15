@@ -7,7 +7,7 @@
 - `math`: For mathematical functions.
 
 ## 2. **Data Preprocessing Libraries**
-from sklearn :
+- sklearn contains:
 - `LabelEncoder`: Converts categorical values (like 'yes', 'no') into numeric labels (like 0, 1).
 - `StandardScaler`: Scales data so it has a mean of 0 and standard deviation of 1. Useful when features have different units.
 - `MinMaxScaler`: Transforms data to a fixed range, usually between 0 and 1. Maintains the shape of the original distribution.
